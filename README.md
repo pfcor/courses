@@ -1,4 +1,3 @@
 # courses
-Repo for course work
 
-Organization and self reference for work done on multiple online and on-premises courses
+Repo for courses, book and tutorials work: organization and self reference
