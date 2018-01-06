@@ -1,3 +1,3 @@
-# courses
+# study
 
-Repo for courses, book and tutorials work: organization and self reference
+Repo for courses, books and tutorials work: organization and self reference
