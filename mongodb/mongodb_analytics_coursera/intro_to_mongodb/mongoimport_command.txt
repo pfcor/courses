@@ -1,0 +1,1 @@
+mongoimport --drop --type csv --headerline --db mflix --collection movies --host "Cluster0-shard-0/cluster0-shard-00-00-siwhm.mongodb.net:27017,cluster0-shard-00-01-siwhm.mongodb.net:27017,cluster0-shard-00-02-siwhm.mongodb.net:27017" --authenticationDatabase admin --ssl --username pfcor --password 1123581321 --file movies_initial.csv
