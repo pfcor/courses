@@ -1,1 +1,3 @@
 .ipynb_checkpoints/
+*.bson
+mflix/
