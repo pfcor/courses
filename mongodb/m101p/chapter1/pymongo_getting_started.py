@@ -14,5 +14,5 @@ names = db.names
 
 item = names.find_one()
 
-print item['name']
+print(item['name'])
 
